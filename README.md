@@ -8,4 +8,4 @@
 <a href="https///codemc.fr/discord">
   <img align="left" alt="CodeMC" width="50px" src="https://cdn.discordapp.com/icons/698470850323677195/16831d09e532330d33b7987ca5bbf5c9.webp" />
 </a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TickettMgl" alt="TickettMgl" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TickettMgl&style=plastic&color=red&label=Profil +»+ Vu" alt="TickettMgl" /> </p>
